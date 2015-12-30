@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebConfs - A blog about web conferences</title>
+    <description>A blog about my favorite web conferences.</description>
+    <link>http://webconfs.me/</link>
+    <atom:link href="http://webconfs.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 30 Dec 2015 11:52:40 -0800</pubDate>
+    <lastBuildDate>Wed, 30 Dec 2015 11:52:40 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Treehouse Meetups</title>
+        <description>&lt;p&gt;This is a post about all the awesome Treehouse meetups out there.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Dec 2015 11:29:03 -0800</pubDate>
+        <link>http://webconfs.me/treehouse-meetups</link>
+        <guid isPermaLink="true">http://webconfs.me/treehouse-meetups</guid>
+        
+        
+        <category>meetups</category>
+        
+      </item>
+    
+      <item>
+        <title>SassConf</title>
+        <description>&lt;p&gt;SassConf is an awesome confernce for front-end developers and designers who love Sass and are passionate about building a better, more beautiful web.&lt;/p&gt;
+
+&lt;p&gt;This year, the conference is in Austin, Texas!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://webconfs.me/sass-conf</link>
+        <guid isPermaLink="true">http://webconfs.me/sass-conf</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Camp Sass!</title>
+        <description>&lt;p&gt;Camp Sass is a one-day, one-track Sass conference held in Atlanta, GA. It’s hosted by Hampton Catlin, the inventor of Sass!&lt;/p&gt;
+
+&lt;p&gt;At this year’s conference, I had lots of fun, learned a ton, and met many talented web designers and developers.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Dec 2015 14:01:36 -0800</pubDate>
+        <link>http://webconfs.me/camp-sass</link>
+        <guid isPermaLink="true">http://webconfs.me/camp-sass</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+      <item>
+        <title>Converge</title>
+        <description>&lt;p&gt;Converge assemble some of the best speakers in the industry to inform and inspire you! It’s for the love of the web and the love of our community. This year’s event includes a full schedule of keynotes, sessions, and workshops.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://convergese.com/&quot;&gt;Check it out!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 10 Dec 2015 00:00:00 -0800</pubDate>
+        <link>http://webconfs.me/converge</link>
+        <guid isPermaLink="true">http://webconfs.me/converge</guid>
+        
+        
+        <category>conferences</category>
+        
+      </item>
+    
+  </channel>
+</rss>
