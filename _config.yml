@@ -1,10 +1,9 @@
 # Site settings
-title: WebConfs - A blog about web conferences
-email: coolwebconfs@gmail.com
+title: William Hexberg
+email: whexberg@gmail.com
 description: A blog about my favorite web conferences.
-baseurl: "/webconfs"
 url: "http://whexberg.github.io" # the base hostname & protocol for your site
-twitter_username: guilh
+twitter_username: whexberg
 paginate: 3
 
 # Build settings
