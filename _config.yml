@@ -1,7 +1,7 @@
 # Site settings
 title: William Hexberg
 email: whexberg@gmail.com
-description: A blog about my favorite web conferences.
+description: My shiny new blog
 url: "http://whexberg.github.io" # the base hostname & protocol for your site
 twitter_username: whexberg
 paginate: 3
